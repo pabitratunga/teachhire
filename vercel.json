@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/fetch-jobs.js": {
+      "maxDuration": 30
+    }
+  }
+}
